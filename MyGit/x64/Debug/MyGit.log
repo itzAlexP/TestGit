@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\AlexPerezRuiz.AzureAD\Desktop\TestGit\MyGit\main.cpp(1,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MyGit.vcxproj -> C:\Users\AlexPerezRuiz.AzureAD\Desktop\TestGit\x64\Debug\MyGit.exe
